@@ -1,6 +1,5 @@
 #Author: Dan Evert Testerman
 #Email bugs to dantesterman@rocketmail.com
-#This code is liscened under Copyleft.
 
 import getpass, sys, telnetlib, time
 
